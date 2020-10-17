@@ -1,0 +1,139 @@
+<changelist name="Default_Changelist" date="1602949651187" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/shelved.patch" />
+  <option name="DESCRIPTION" value="Default Changelist" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="GameEngine/bin/org/game/engine/Game.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/Game.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="PackMan/bin/org/game/engine/Game.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/Game1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="GameEngine/bin/org/game/engine/GameApplication$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/GameApplication$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="PackMan/bin/org/game/engine/GameApplication$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/GameApplication$11.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="GameEngine/bin/org/game/engine/GameApplication.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/GameApplication.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="PackMan/bin/org/game/engine/GameApplication.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/GameApplication1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="GameEngine/bin/org/game/engine/GameCanvas.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/GameCanvas.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="PackMan/bin/org/game/engine/GameCanvas.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/GameCanvas1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="PackMan/bin/game/packman/GameData.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/GameData.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="GameEngine/bin/org/game/engine/GameLoop.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/GameLoop.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="PackMan/bin/org/game/engine/GameLoop.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/GameLoop1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="PackMan/bin/game/packman/GhostInfo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/GhostInfo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="PackMan/bin/game/packman/GhostsCoach.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/GhostsCoach.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="GameEngine/bin/examples/KeyEventExample.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/KeyEventExample.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="PackMan/bin/examples/KeyEventExample.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/KeyEventExample1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="PackMan/bin/game/packman/Maze.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/Maze.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="PackMan/bin/game/packman/MoverInfo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/MoverInfo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="PackMan/bin/game/packman/PackMan.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/PackMan.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="PackMan/images/packman_sheet.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/packman_sheet.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="PackMan/images/packman_sheet.xcf" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/packman_sheet.xcf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="PackMan/bin/game/packman/Position.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/Position.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="GameEngine/bin/org/game/engine/Region.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/Region.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="PackMan/bin/org/game/engine/Region.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/Region1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="GameEngine/bin/org/game/engine/Sprite.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/Sprite.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="PackMan/bin/org/game/engine/Sprite.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/Sprite1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="GameEngine/bin/org/game/engine/SpriteSheet.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/SpriteSheet.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="PackMan/bin/org/game/engine/SpriteSheet.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Default_Changelist/SpriteSheet1.class" />
+  </binary>
+</changelist>
